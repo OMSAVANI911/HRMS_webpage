@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "name": "a",
+        "salary": 56.0,
+        "leave_days": 4,
+        "tasks": [
+            "4",
+            "6"
+        ],
+        "type": "employee",
+        "bonus": 0,
+        "overtime": 0
+    },
+    {
+        "id": "2",
+        "name": "b",
+        "salary": 10.0,
+        "leave_days": 3,
+        "tasks": [],
+        "type": "employee",
+        "bonus": 0,
+        "overtime": 0
+    },
+    {
+        "id": "3",
+        "name": "c",
+        "salary": 55.0,
+        "leave_days": 0,
+        "tasks": [],
+        "type": "manager",
+        "bonus": 4.0,
+        "overtime": 0
+    },
+    {
+        "id": "4",
+        "name": "d",
+        "salary": 555.0,
+        "leave_days": 0,
+        "tasks": [],
+        "type": "developer",
+        "bonus": 0,
+        "overtime": 1
+    }
+]
